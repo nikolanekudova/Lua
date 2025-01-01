@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.globals": [
+        "quad_to_draw",
+        "rabbit"
+    ]
+}
